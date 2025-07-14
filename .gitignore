@@ -1,0 +1,22 @@
+# 🧠 Node modules (never push these)
+node_modules/
+
+# 🧪 Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ⚙️ Environment variables (keep secrets out of GitHub)
+.env
+
+# 📸 Uploaded files (optional - only ignore if you don't want uploads in Git)
+public/uploads/
+
+# 💻 System files
+.DS_Store
+Thumbs.db
+
+# VSCode settings (optional)
+.vscode/
+
+
